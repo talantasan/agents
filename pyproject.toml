@@ -9,6 +9,7 @@ authors = [
 requires-python = ">=3.12"
 dependencies = [
     "ipykernel>=7.4.0",
+    "openai>=3.44.0",
     "python-dotenv>=1.2.4",
 ]
 
