@@ -1,0 +1,17 @@
+-   Overall 5+ years of experience as DevOps Engineer focusing on Configuration, packaging, building, automation and managing servers. 
+•	Very good knowledge and experience of all phases of Software Development Life Cycle such as Requirement Analysis, Planning, Design, Development, Testing, and Release of projects.
+•	Experienced in Configuring Servers to provide Networking Services, including HTTP/HTTPS, FTP, NFS, SMTP and SSH.
+•	Highly skilled in the employment of ITIL Best Practices with proven leadership in the Incident, Problem, Change, Availability, and Service Delivery as well as in Process Building.
+•	Expertise in Querying RDBMS such as Oracle, MY SQL and SQL Server by using SQL for data integrity.
+•	Extensive experience using JENKINS, MAVEN and ANT as a Build Tool for the building of deployable artifacts from source code.
+•	Extensive experience includes SCM, Change/Incident Management, VMware and AWS Cloud computing. 
+•	Extensively worked on Jenkins, Docker, Ansible and Maven for continuous integration and for end-to-End automation for all build and deployments.
+•	Strong knowledge / experience in creating Jenkins CI pipelines. Experience in Jenkins to automate most of the build related tasks.
+•	Experience in the design, implementation, and support of automated containerized infrastructure (Docker), leveraging continuous integration and continuous delivery processes for service development, and cluster/monitoring/day2 tooling for infrastructure service deployment and administration.
+•	Valuable experience in Ansible for Deployment on Multiple platforms.
+•	Extensive experience in UNIX performance tuning and Capacity Planning. 
+•	Experience in installing, configuring, and troubleshooting Linux and UNIX servers.
+•	Experienced in Administration of Production, Development and Test environments carrying Windows, Ubuntu, Red Hat Linux, SUSE Linux, Centos and Solaris servers.
+•	Team player with excellent Interpersonal Skills, Self-Motivated, Dedicated and Understanding the Demands of 24/7 System Maintenance and has good Customer Support Experience.
+•	Excellent Communication Skills and a recognized Team Player with strong project Leadership and Time management capabilities.
+•	Excellent work ethics, fast & enthusiastic learner and a good team player. Strong management, administrative and leadership skills to work in team.
