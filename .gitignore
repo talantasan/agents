@@ -37,4 +37,5 @@ dist/
 # Optional: Ignore the lockfile ONLY if this is a library/package. 
 # Keep uv.lock if this is a production application/project.
 # uv.lock
+.gradio/
 

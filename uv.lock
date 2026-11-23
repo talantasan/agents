@@ -28,6 +28,7 @@ dependencies = [
     { name = "openai" },
     { name = "pypdf" },
     { name = "python-dotenv" },
+    { name = "requests" },
 ]
 
 [package.metadata]
@@ -39,6 +40,7 @@ requires-dist = [
     { name = "openai", specifier = ">=3.45.0" },
     { name = "pypdf", specifier = ">=7.1.0" },
     { name = "python-dotenv", specifier = ">=1.2.4" },
+    { name = "requests", specifier = ">=2.34.2" },
 ]
 
 [[package]]
