@@ -3,10 +3,10 @@ revision = 5
 requires-python = ">=3.12"
 resolution-markers = [
     "python_full_version >= '3.15' and sys_platform == 'win32'",
-    "python_full_version == '3.14.*' and sys_platform == 'win32'",
     "python_full_version >= '3.15' and sys_platform == 'emscripten'",
-    "python_full_version == '3.14.*' and sys_platform == 'emscripten'",
     "python_full_version >= '3.15' and sys_platform != 'emscripten' and sys_platform != 'win32'",
+    "python_full_version == '3.14.*' and sys_platform == 'win32'",
+    "python_full_version == '3.14.*' and sys_platform == 'emscripten'",
     "python_full_version == '3.14.*' and sys_platform != 'emscripten' and sys_platform != 'win32'",
     "python_full_version == '3.13.*' and sys_platform == 'win32'",
     "python_full_version == '3.13.*' and sys_platform == 'emscripten'",
@@ -26,6 +26,7 @@ dependencies = [
     { name = "ipykernel" },
     { name = "notebook" },
     { name = "openai" },
+    { name = "pydantic" },
     { name = "pypdf" },
     { name = "python-dotenv" },
     { name = "requests" },
@@ -38,6 +39,7 @@ requires-dist = [
     { name = "ipykernel", specifier = ">=7.4.0" },
     { name = "notebook", specifier = ">=7.6.5" },
     { name = "openai", specifier = ">=3.45.0" },
+    { name = "pydantic", specifier = ">=2.14.4" },
     { name = "pypdf", specifier = ">=7.1.0" },
     { name = "python-dotenv", specifier = ">=1.2.4" },
     { name = "requests", specifier = ">=2.34.2" },
